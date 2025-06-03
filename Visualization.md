@@ -62,3 +62,7 @@ end note
 @enduml
 
 ```
+
+## Example of a Work Process (Miro)
+
+![Work Process](Work_Process.png)
