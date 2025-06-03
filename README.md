@@ -7,8 +7,10 @@ Just a few simple examples of my skills:)
 1. [Writing](./Writing.md)
 2. [Visualization](./Visualization.md)
 
-Contact me: 
+## Contact me
 
-Telegram: motrojamm
+**Telegram:** motrojamm
 
-Linkedin: [Liudmila Serebriakova](https://www.linkedin.com/in/serebriakovala/)
+**e-mail:** mila.serebryakova@gmail.com
+
+**Linkedin:** [Liudmila Serebriakova](https://www.linkedin.com/in/serebriakovala/)
